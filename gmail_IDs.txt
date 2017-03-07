@@ -1,0 +1,39 @@
+
+
+URL to create gmail account
+https://accounts.google.com/SignUp?service=mail&amp;continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&amp;ltmpl=default
+  
+  
+  Create account
+name="FirstName"   
+id="FirstName"
+
+name="LastName"
+id="LastName"
+
+name="GmailAddress"  
+id="GmailAddress"
+
+name="Passwd"  
+id="Passwd"
+  
+name="PasswdAgain"
+id="PasswdAgain"
+  
+ 
+  <div tabindex="0" title="Birthday" class="goog-inline-block goog-flat-menu-button jfk-select" role="listbox" 
+  aria-expanded="false" aria-haspopup="true" aria-activedescendant=":0" style="-ms-user-select: none;">
+  <div class="goog-inline-block goog-flat-menu-button-caption" id=":0" role="option" aria-posinset="2" aria-setsize="12">February</div>
+  <div class="goog-inline-block goog-flat-menu-button-dropdown" aria-hidden="true">&nbsp;</div></div>
+  
+  
+name="BirthDay"  
+id="BirthDay"
+
+name="BirthYear"  
+id="BirthYear"
+  
+   <div tabindex="0" title="Gender" class="goog-inline-block goog-flat-menu-button jfk-select" role="listbox" 
+  aria-expanded="false" aria-haspopup="true" aria-activedescendant=":d" style="-ms-user-select: none;">
+  <div class="goog-inline-block goog-flat-menu-button-caption" id=":d" role="option" aria-posinset="3" aria-setsize="4">Other</div>
+  <div class="goog-inline-block goog-flat-menu-button-dropdown" aria-hidden="true">&nbsp;</div></div>

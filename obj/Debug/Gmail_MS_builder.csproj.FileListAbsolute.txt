@@ -1,0 +1,9 @@
+c:\users\travisd\documents\visual studio 2015\Projects\Gmail_MS_builder\Gmail_MS_builder\bin\Debug\Gmail_MS_builder.exe.config
+c:\users\travisd\documents\visual studio 2015\Projects\Gmail_MS_builder\Gmail_MS_builder\bin\Debug\Gmail_MS_builder.exe
+c:\users\travisd\documents\visual studio 2015\Projects\Gmail_MS_builder\Gmail_MS_builder\bin\Debug\Gmail_MS_builder.pdb
+c:\users\travisd\documents\visual studio 2015\Projects\Gmail_MS_builder\Gmail_MS_builder\obj\Debug\Gmail_MS_builder.csprojResolveAssemblyReference.cache
+c:\users\travisd\documents\visual studio 2015\Projects\Gmail_MS_builder\Gmail_MS_builder\obj\Debug\Gmail_MS_builder.Form1.resources
+c:\users\travisd\documents\visual studio 2015\Projects\Gmail_MS_builder\Gmail_MS_builder\obj\Debug\Gmail_MS_builder.Properties.Resources.resources
+c:\users\travisd\documents\visual studio 2015\Projects\Gmail_MS_builder\Gmail_MS_builder\obj\Debug\Gmail_MS_builder.csproj.GenerateResource.Cache
+c:\users\travisd\documents\visual studio 2015\Projects\Gmail_MS_builder\Gmail_MS_builder\obj\Debug\Gmail_MS_builder.exe
+c:\users\travisd\documents\visual studio 2015\Projects\Gmail_MS_builder\Gmail_MS_builder\obj\Debug\Gmail_MS_builder.pdb
