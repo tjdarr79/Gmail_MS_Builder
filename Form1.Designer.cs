@@ -99,6 +99,7 @@
             this.webBrowser2.Name = "webBrowser2";
             this.webBrowser2.Size = new System.Drawing.Size(549, 334);
             this.webBrowser2.TabIndex = 6;
+            this.webBrowser2.DocumentCompleted += new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(this.webBrowser2_DocumentCompleted);
             // 
             // Form1
             // 
@@ -114,7 +115,7 @@
             this.Controls.Add(this.txb_lastName);
             this.Controls.Add(this.txb_firstName);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Gmail_MS_Builder";
             this.ResumeLayout(false);
             this.PerformLayout();
 
